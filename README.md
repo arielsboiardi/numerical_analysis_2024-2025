@@ -81,7 +81,7 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
   - Heat conductivity
   - Maxwell equation
 
-#### Module 4 (Numerical Analysis with Python - Dr. Pierfrancesco Siena/Dr. Michele Girfoglio)
+#### Module 4 (Numerical Analysis with Python - Mr. Ariel S. Boiardi / Dr. Michele Girfoglio)
 
 - Introduction to Python, Numpy, Scipy
 - Working with numpy arrays, matrices and nd-arrays
@@ -94,7 +94,9 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 
 ### Students projects
 
-Application of the Finite Element Method / Finite Difference Method to the solution of models taken from the course
+The final project has been presented during the last Lab session of the course on 18/12/2024. 
+The assignments are described the dedicated [notebook](./material/Lab_Final_project.ipynb). 
+For questions related to the assignments, please contact the tutor [Ariel S. Boiardi](mailto://aboiardi@sissa.it).
 
 ### Further material provided during lectures by Prof. Gianluigi Rozza at <https://people.sissa.it/~grozza/amnasc/>
 
