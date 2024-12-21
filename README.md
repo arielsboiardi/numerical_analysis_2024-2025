@@ -95,7 +95,7 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 ### Students projects
 
 The final project has been presented during the last Lab session of the course on 18/12/2024. 
-The assignments are described the dedicated [notebook](./material/Lab_Final_project.ipynb). 
+The assignments are described the dedicated [notebook](./material/AB-Lab_Final_project_2024-25.ipynb). 
 For questions related to the assignments, please contact the tutor [Ariel S. Boiardi](mailto://aboiardi@sissa.it).
 
 ### Further material provided during lectures by Prof. Gianluigi Rozza at <https://people.sissa.it/~grozza/amnasc/>
